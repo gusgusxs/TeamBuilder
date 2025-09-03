@@ -1,16 +1,16 @@
-# teambuli
 
-A new Flutter project.
+# clone โปรเจค
 
-## Getting Started
+git clone https://github.com/your-username/TeamBuilder.git
 
-This project is a starting point for a Flutter application.
+cd teambuli 
 
-A few resources to get you started if this is your first Flutter project:
+# ใช้คำสั่ง
+flutter pub get 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+เพื่ออัปเดต pubspec.yaml ให้เป็นเวอร์ชันล่าสุด
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter run -d chrome เพื่อรันโปรเจค
+
+
+
