@@ -80,6 +80,7 @@ class TeamController extends GetxController {
       }
       selectedIds.add(p.id);
     }
+    selectedIds.refresh();        // ✅ บังคับให้ Obx ทั้งหน้ารีบิลด์ทันที
     _persistEditor();
   }
 
