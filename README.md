@@ -3,7 +3,7 @@
 
 git clone https://github.com/gusgusxs/TeamBuilder.git
 
-cd teambuli 
+cd TeamBuilder 
 
 # ใช้คำสั่ง
 flutter pub get 
