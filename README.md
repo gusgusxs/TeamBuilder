@@ -1,7 +1,7 @@
 
 # clone โปรเจค
 
-git clone https://github.com/your-username/TeamBuilder.git
+git clone https://github.com/gusgusxs/TeamBuilder.git
 
 cd teambuli 
 
